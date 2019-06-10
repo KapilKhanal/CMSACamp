@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Lecture 3](README.md)
+* [Lecture 4](lecture-4.md)
 
